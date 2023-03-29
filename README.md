@@ -2,10 +2,10 @@
   <img src="https://github.com/Ginhu/Ginhu/blob/main/assets/greetings.gif" alt="Hi, I'm Sérgio 👋 Welcome to my gitHub Page ❤️">
 </p>
 
-# About me
-## I'm a frontend web developer studying to become fullstack at Driven Education. I'm really passionate about technology and enjoy creating innovative ways of solving everyday problems.
+## About me
+### I'm a frontend web developer studying to become fullstack at Driven Education. I'm really passionate about technology and enjoy creating innovative ways of solving everyday problems.
 
-# Programming Languages and Tools
+## Programming Languages and Tools
 
 #### Front-end
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
