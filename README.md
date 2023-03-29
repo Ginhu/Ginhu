@@ -14,7 +14,7 @@
   <img align="center" alt="CSS-Icon" height="70" width="80" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" />
   <img align="center" alt="NodeJS-Icon" height="70" width="80" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Webpack-Icon" height="70" width="80" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" />
-   <img align="center" alt="GIT-Icon" height="70" width="80" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" />
+   <img align="center" alt="GIT-Icon" height="70" width="80" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
   <img align="center" alt="GITHUB-Icon" height="70" width="80" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" />
   <img align="center" alt="VSCode-Icon" height="70" width="80" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" />
   <img align="center" alt="Trello-Icon" height="70" width="80" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" />
