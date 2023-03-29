@@ -15,8 +15,8 @@
   <img align="center" alt="GIT-Icon" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" />
   <img align="center" alt="GITHUB-Icon" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" />
   <img align="center" alt="NodeJS-Icon" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Webpack-Icon" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" />
+  <img align="center" alt="Webpack-Icon" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" />
   <img align="center" alt="VSCode-Icon" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" />
-  <img align="center" alt="Trello-Icon" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" />
+  <img align="center" alt="Trello-Icon" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" />
   <img align="center" alt="Figma-Icon" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
 </div>
