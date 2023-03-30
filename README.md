@@ -3,10 +3,11 @@
 </p>
 
 ## About me
-<div align="right" width="500" height="320">
-  ###  I'm a front-end web developer training to become full-stack at Driven Education. I'm really passionate about technology and enjoy creating innovative ways of     solving everyday problems.
+<div>
+  <p align="left">I'm a front-end web developer training to become full-stack at Driven Education. I'm really passionate about technology and enjoy creating innovative ways of solving everyday problems.</p>
+  <img src="./assets/Dev.png" align="right" alt="dev-image" width="500" height="320"/>
 </div>
-<img src="./assets/Dev.png" align="right" alt="dev-image" width="500" height="320"/><br>
+<br>
 
 
 ## Programming Languages and Tools
