@@ -27,5 +27,5 @@
 
 <div align="center"><br>
   
-[![Sérgio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ginhu&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Sérgio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ginhu&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
