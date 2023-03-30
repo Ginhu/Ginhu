@@ -10,7 +10,8 @@
 ## My stats card
 
 <div align="center">
-[![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ginhu&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  
+[![Sérgio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ginhu&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
