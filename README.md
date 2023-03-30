@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/Ginhu/Ginhu/blob/main/assets/greetings.gif" alt="Hey there! I'm Sérgio 👋 Welcome to my gitHub Page ❤️">
 </p>
-
+---
 ## About me
 <div>
   <p align="left">I'm a front-end web developer training to become full-stack at Driven Education. I'm really passionate about technology and enjoy creating innovative  ways of solving everyday problems.</p>
