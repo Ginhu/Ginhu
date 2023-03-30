@@ -24,7 +24,7 @@
   <img align="center" alt="Figma-Icon" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
 </div><br>
 
-<br><br><h2> My stats card</h2>
+<br><br><br><br><h2> My stats card</h2>
 
 <div align="center"><br>
   
