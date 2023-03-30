@@ -7,7 +7,7 @@
 ###  I'm a front-end web developer training to become full-stack at Driven Education. I'm really passionate about technology and enjoy creating innovative ways of solving everyday problems.
 <br>
 
-## Programming Languages and Tools
+## Programming Languages and Tools<br>
 
 <div style="display: inline_block" align="center" gap="25px">
   <img align="center" alt="JS-Icon" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
