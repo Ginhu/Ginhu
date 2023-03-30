@@ -5,13 +5,13 @@
 ---
 <h2> About me</h2>
 <div>
-  <p align="left">I'm a front-end web developer training to become full-stack at Driven Education. I'm really passionate about technology and enjoy creating innovative  ways of solving everyday problems.</p>
+  <p align="left" width="500">I'm a front-end web developer training to become full-stack at Driven Education. I'm really passionate about technology and enjoy creating innovative  ways of solving everyday problems.</p>
   <img src="./assets/Dev.png" align="right" alt="dev-image" width="500" height="auto"/>
 </div>
 <br>
 
 
-## Programming Languages and Tools
+<h2> Programming Languages and Tools</h2>
 
 <div style="display: inline_block" align="center" gap="25px"><br>
   <img align="center" alt="JS-Icon" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
@@ -27,7 +27,7 @@
 </div><br>
 
 
-## My stats card
+<h2> My stats card</h2>
 
 <div align="center"><br>
   
