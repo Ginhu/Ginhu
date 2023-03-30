@@ -3,12 +3,12 @@
 </p>
 
 ---
-<div>
+
 <h2> About me</h2>
 
-<div align="left" width="500"><p>I'm a front-end web developer training to become full-stack at Driven Education. I'm really passionate about technology and enjoy creating innovative  ways of solving everyday problems.</p></div>
-  <img src="./assets/Dev.png" align="right" alt="dev-image" width="500" height="auto"/>
-</div>
+<h3>I'm a front-end web developer training to become full-stack at Driven Education. I'm really passionate about technology and enjoy creating innovative  ways of solving everyday problems.</h3>
+<img src="./assets/Dev.png" align="right" alt="dev-image" width="500" height="auto"/>
+
 
 
 ---
