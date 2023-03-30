@@ -5,7 +5,7 @@
 ---
 <h2> About me</h2>
 <div>
-  <p align="left" width="500">I'm a front-end web developer training to become full-stack at Driven Education. I'm really passionate about technology and enjoy creating innovative  ways of solving everyday problems.</p>
+  <span align="left" width="500">I'm a front-end web developer training to become full-stack at Driven Education. I'm really passionate about technology and enjoy creating innovative  ways of solving everyday problems.</span>
   <img src="./assets/Dev.png" align="right" alt="dev-image" width="500" height="auto"/>
 </div>
 <br>
