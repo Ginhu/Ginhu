@@ -8,7 +8,7 @@
 
 <h3>I'm a front-end web developer training to become full-stack at Driven Education. I'm really passionate about technology and enjoy creating innovative  ways of solving everyday problems.</h3>
 <img src="./assets/Dev.png" align="right" alt="dev-image" width="450"/>
-<p align="right"><a href="http://www.freepik.com">Designed by catalyststuff / Freepik</a></p>
+
 
 <br><h2> Programming Languages and Tools</h2>
 
@@ -34,4 +34,4 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ginhu&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
-
+<p align="right"><a href="http://www.freepik.com">Image designed by catalyststuff / Freepik</a></p>
