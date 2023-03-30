@@ -33,4 +33,4 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ginhu&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
-<a href="http://www.freepik.com" align="right">Designed by catalyststuff / Freepik</a>
+<p align="right"><a href="http://www.freepik.com">Designed by catalyststuff / Freepik</a></p>
