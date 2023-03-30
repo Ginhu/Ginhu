@@ -3,7 +3,7 @@
 </p>
 
 ## About me
-
+<img src="./assets/Dev.png"/>
 ###  I'm a front-end web developer training to become full-stack at Driven Education. I'm really passionate about technology and enjoy creating innovative ways of solving everyday problems.
 <br>
 
