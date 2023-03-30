@@ -5,7 +5,7 @@
 ## About me
 
 ### I'm a front-end web developer training to become full-stack at Driven Education. I'm really passionate about technology and enjoy creating innovative ways of solving everyday problems.
-<br><br>
+<br>
 
 ## Programming Languages and Tools
 
@@ -20,7 +20,7 @@
   <img align="center" alt="VSCode-Icon" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" />
   <img align="center" alt="Trello-Icon" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" />
   <img align="center" alt="Figma-Icon" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
-</div><br><br>
+</div><br>
 
 
 ## My stats card
