@@ -9,7 +9,10 @@
 
 ## My stats card
 
-[![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ginhu)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+[![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ginhu&show_icons=true&theme=radical)]
+</div>
+
 
 ## Programming Languages and Tools
 
