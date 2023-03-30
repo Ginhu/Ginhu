@@ -10,7 +10,7 @@
 <img src="./assets/Dev.png" align="right" alt="dev-image" width="450"/>
 
 
-<br><h2> Programming Languages and Tools</h2>
+<br><br><h2> Programming Languages and Tools</h2>
 
 <div style="display: inline_block" align="center" gap="25px"><br>
   <img align="center" alt="JS-Icon" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
