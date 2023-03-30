@@ -4,8 +4,8 @@
 
 ## About me
 <div>
-  <p align="left">I'm a front-end web developer training to become full-stack at Driven Education. I'm really passionate about technology and enjoy creating innovative ways of solving everyday problems.</p>
-  <img src="./assets/Dev.png" align="right" alt="dev-image" width="500" height="320"/>
+  <p align="left">I'm a front-end web developer training to become full-stack at Driven Education. I'm really passionate about technology and enjoy creating innovative  ways of solving everyday problems.</p>
+  <img src="./assets/Dev.png" align="right" alt="dev-image" width="500" height="auto"/>
 </div>
 <br>
 
