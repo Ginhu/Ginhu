@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://github.com/Ginhu/Ginhu/blob/main/assets/greetings.gif" alt="Hi, I'm Sérgio 👋 Welcome to my gitHub Page ❤️">
+  <img src="https://github.com/Ginhu/Ginhu/blob/main/assets/greetings.gif" alt="Hey there! I'm Sérgio 👋 Welcome to my gitHub Page ❤️">
 </p>
 
 ## About me
 
-###   I'm a front-end web developer training to become full-stack at Driven Education. I'm really passionate about technology and enjoy creating innovative ways of solving everyday problems.
+###  I'm a front-end web developer training to become full-stack at Driven Education. I'm really passionate about technology and enjoy creating innovative ways of solving everyday problems.
 <br>
 
 ## Programming Languages and Tools
