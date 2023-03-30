@@ -3,7 +3,13 @@
 </p>
 
 ## About me
+
 ### I'm a front-end web developer training to become full-stack at Driven Education. I'm really passionate about technology and enjoy creating innovative ways of solving everyday problems.
+
+
+## My stats card
+
+[![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ginhu)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Programming Languages and Tools
 
