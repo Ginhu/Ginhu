@@ -10,9 +10,12 @@
 ## My stats card
 
 <div align="center">
-  
 [![Sérgio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ginhu&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+
+
+
+
 
 
 ## Programming Languages and Tools
