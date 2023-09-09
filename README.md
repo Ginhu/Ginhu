@@ -13,7 +13,7 @@
 <br><br><h2> Programming Languages and Tools</h2>
 
 <div style="display: inline_block" align="center" gap="50px"><br>
-  <img align="center" margin="25px" alt="JS-Icon" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />
+  <img align="center" alt="JS-Icon" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />*
   <img align="center" alt="TS-Icon" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" />
   <img align="center" alt="ReactJs-Icon" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" />
   <img align="center" alt="Styled-Components-Icon" src="https://img.shields.io/badge/styledcomponents-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white" />
