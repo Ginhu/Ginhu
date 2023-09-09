@@ -3,12 +3,12 @@
 </p>
 
 ---
-
+<div align="center"><img src="./assets/Dev.png" align="center" alt="dev-image" width="450"/></div>
 <h2>:tea: About me</h2>
 
 <h3>I'm a fullstack web developer always looking for something new to learn. I'm really passionate about technology and enjoy creating innovative ways of solving everyday problems. I'm a mature team worker and adaptable to any challeging situations. Always looking to learn new skills and improve myself. My main goal as a developer is to help people out and make their lifes better in any way. I'm currently looking for a position where I can learn with more experienced developers and improve my skill set</h3>
 
-<img src="./assets/Dev.png" align="right" alt="dev-image" width="450"/>
+
 
 
 ## 💻 Tech Stack:
