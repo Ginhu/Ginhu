@@ -14,16 +14,24 @@
 
 <div style="display: inline_block" align="center" gap="25px"><br>
   <img align="center" alt="JS-Icon" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />
-  <img align="center" alt="React-Icon" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
-  <img align="center" alt="HTML5-Icon" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />
-  <img align="center" alt="CSS-Icon" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
-  <img align="center" alt="NodeJS-Icon" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Webpack-Icon" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" />
-  <img align="center" alt="NPM-Icon" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" />
-  <img align="center" alt="GIT-Icon" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
-  <img align="center" alt="VSCode-Icon" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" />
-  <img align="center" alt="Trello-Icon" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" />
-  <img align="center" alt="Figma-Icon" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
+  <img align="center" alt="TS-Icon" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" />
+  <img align="center" alt="ReactJs-Icon" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" />
+  <img align="center" alt="Styled-Components-Icon" src="https://img.shields.io/badge/styledcomponents-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white" />
+  <img align="center" alt="Axios-Icon" src="https://img.shields.io/badge/Axios-5A29E4.svg?style=for-the-badge&logo=Axios&logoColor=white" />
+  <img align="center" alt="NodeJs-Icon" src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img align="center" alt="Express-Icon" src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" />
+  <img align="center" alt="Nest-Icon" src="https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=NestJS&logoColor=white" />
+  <img align="center" alt="Jest-Icon" src="https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white" />
+  <img align="center" alt="Prisma-Icon" src="https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&logo=Prisma&logoColor=white" />
+  <img align="center" alt="PostgresSQL-Icon" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" />
+  <img align="center" alt="MondoDB-Icon" src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" />
+  <img align="center" alt="HTML5-Icon" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" />
+  <img align="center" alt="CSS3-Icon" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" />
+  <img align="center" alt="GIT-Icon" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" />
+  <img align="center" alt="Trello-Icon" src="https://img.shields.io/badge/Trello-0052CC.svg?style=for-the-badge&logo=Trello&logoColor=white" />
+  <img align="center" alt="Figma-Icon" src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" />
+  <img align="center" alt="Styled-Components-Icon" src="" />
+  
 </div><br>
 
 <br><br><br><br><h2> My stats card</h2>
