@@ -13,7 +13,8 @@
 <br><br><h2> Programming Languages and Tools</h2>
 
 <div style="display: inline_block" align="center" gap="50px"><br>
-  <img align="center" alt="JS-Icon" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />*
+  ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)&nbsp;
+  <img align="center" alt="JS-Icon" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />
   <img align="center" alt="TS-Icon" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" />
   <img align="center" alt="ReactJs-Icon" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" />
   <img align="center" alt="Styled-Components-Icon" src="https://img.shields.io/badge/styledcomponents-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white" />
@@ -30,7 +31,6 @@
   <img align="center" alt="GIT-Icon" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" />
   <img align="center" alt="Trello-Icon" src="https://img.shields.io/badge/Trello-0052CC.svg?style=for-the-badge&logo=Trello&logoColor=white" />
   <img align="center" alt="Figma-Icon" src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" />
-  <img align="center" alt="Styled-Components-Icon" src="" />
   
 </div><br>
 
