@@ -12,7 +12,7 @@
 
 <br><br><h2> Programming Languages and Tools</h2>
 
-<div style="display: inline_block" align="center" gap="50px"><br>
+
   ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)&nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)&nbsp;
   <img align="center" alt="JS-Icon" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />
@@ -33,7 +33,7 @@
   <img align="center" alt="Trello-Icon" src="https://img.shields.io/badge/Trello-0052CC.svg?style=for-the-badge&logo=Trello&logoColor=white" />
   <img align="center" alt="Figma-Icon" src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" />
   
-</div><br>
+
 
 <br><br><br><br><h2> My stats card</h2>
 
